@@ -5,6 +5,7 @@ Welcome to the **E-Commerce Project**! This is a modern, fully responsive online
 ## 📦 Tech Stack
 
 - **ReactJS**: A powerful JavaScript library for building user interfaces.
+-   Javascript
 - **CSS**: For custom styling.
 - **Tailwind CSS**: A utility-first CSS framework to create modern designs with minimal effort.
 - **Chakra UI**: A component library that provides accessible and reusable components to enhance UI development.
